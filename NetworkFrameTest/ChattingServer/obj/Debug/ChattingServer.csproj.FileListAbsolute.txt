@@ -1,0 +1,1 @@
+C:\VS2015Proj\NetworkFrameTest\ChattingServer\bin\Debug\ChattingServer.exe.config

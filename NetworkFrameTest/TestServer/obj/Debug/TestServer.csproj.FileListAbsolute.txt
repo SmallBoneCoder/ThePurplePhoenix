@@ -1,0 +1,12 @@
+C:\VS2015Proj\NetworkFrameTest\TestServer\bin\Debug\TestServer.exe.config
+C:\VS2015Proj\NetworkFrameTest\TestServer\obj\Debug\TestServer.exe
+C:\VS2015Proj\NetworkFrameTest\TestServer\obj\Debug\TestServer.pdb
+C:\VS2015Proj\NetworkFrameTest\TestServer\bin\Debug\TestServer.exe
+C:\VS2015Proj\NetworkFrameTest\TestServer\bin\Debug\TestServer.pdb
+C:\VS2015Proj\NetworkFrameTest\TestServer\obj\Debug\TestServer.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\Unity Projects\MyOnlineGame\NetworkFrameTest\TestServer\bin\Debug\TestServer.exe.config
+C:\Users\Public\Documents\Unity Projects\MyOnlineGame\NetworkFrameTest\TestServer\obj\Debug\TestServer.exe
+C:\Users\Public\Documents\Unity Projects\MyOnlineGame\NetworkFrameTest\TestServer\obj\Debug\TestServer.pdb
+C:\Users\Public\Documents\Unity Projects\MyOnlineGame\NetworkFrameTest\TestServer\bin\Debug\TestServer.exe
+C:\Users\Public\Documents\Unity Projects\MyOnlineGame\NetworkFrameTest\TestServer\bin\Debug\TestServer.pdb
+C:\Users\Public\Documents\Unity Projects\MyOnlineGame\NetworkFrameTest\TestServer\obj\Debug\TestServer.csprojResolveAssemblyReference.cache
